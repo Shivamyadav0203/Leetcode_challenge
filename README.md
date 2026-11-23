@@ -14,4 +14,20 @@
 |  |
 | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/Shivamyadav0203/Leetcode_challenge/tree/master/0434-number-of-segments-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shivamyadav0203/Leetcode_challenge/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shivamyadav0203/Leetcode_challenge/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shivamyadav0203/Leetcode_challenge/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shivamyadav0203/Leetcode_challenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
