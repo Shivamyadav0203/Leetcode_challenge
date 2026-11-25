@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shivamyadav0203/Leetcode_challenge/tree/master/0032-longest-valid-parentheses) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shivamyadav0203/Leetcode_challenge/tree/master/0434-number-of-segments-in-a-string) |
 ## Hash Table
 |  |
@@ -30,4 +31,16 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shivamyadav0203/Leetcode_challenge/tree/master/0141-linked-list-cycle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shivamyadav0203/Leetcode_challenge/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shivamyadav0203/Leetcode_challenge/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shivamyadav0203/Leetcode_challenge/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
